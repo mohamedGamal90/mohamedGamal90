@@ -1,6 +1,6 @@
 # Hello I'm Mohamed,<br/>
  Software Engineer<br/>
- Studied Engineering at Misr University for science and technology Cairo<br/>
+ Studied Computer Science at Misr University for science and technology Cairo<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
